@@ -1,6 +1,6 @@
 <!-- Social links -->
 <p align="center">
-  <a href="https://github.com/twinji"><img src="icons/github.png" align="center" height="32"></a>
+  <a href="https://github.com/twinji"><img src="icons/github.svg" align="center" height="32"></a>
   <span>&nbsp;</span>
   <a href="https://www.instagram.com/_twinji/"><img src="icons/instagram.svg" align="center" height="32"></a>
   <span>&nbsp;</span>
