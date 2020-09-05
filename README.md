@@ -1,6 +1,3 @@
-<!-- Description -->
-<p align="center">Hello there, my name is Vishnu Gunapathi and I am a software developer and digital artist.</p>
-
 <!-- Social links -->
 <p align="center">
   <a href="https://github.com/twinji"><img src="https://raw.githubusercontent.com/twinji/twinji/master/icons/github.svg" align="center" height="24"/></a>
