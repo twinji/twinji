@@ -1,5 +1,6 @@
+<!-- Title -->
+<h1 align="center">T W I N J I</h1>
 <!-- Social links -->
-<hr/>
 <p align="center">
   <a href="https://github.com/twinji"><img src="https://raw.githubusercontent.com/twinji/twinji/master/icons/github.svg" align="center" height="24"/></a>
   <span>&nbsp;</span>
